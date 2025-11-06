@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Məxfilik Siyasəti | Linkedin App</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 700px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+      background-color: #fafafa;
+      color: #333;
+    }
+    h1 {
+      color: #1877f2;
+      text-align: center;
+    }
+    footer {
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #666;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Məxfilik Siyasəti</h1>
+  <p>Bu tətbiq (Linkedin App) istifadəçilərdən heç bir şəxsi məlumat toplamır və saxlamır. 
+  İstifadəçi tərəfindən verilən Linkedin icazələri yalnız istifadəçinin idarə etdiyi Linkedin səhifələrində paylaşım etmək üçün istifadə olunur.</p>
+  
+  <p>Tətbiq vasitəsilə əldə edilən bütün məlumatlar Linkedin-in rəsmi API vasitəsilə gəlir və heç bir halda üçüncü tərəflərlə paylaşılmır.</p>
+  
+  <p>Əgər bu siyasətlə bağlı suallarınız varsa, bizimlə əlaqə saxlaya bilərsiniz:</p>
+  <p><strong>E-poçt:</strong> khayyam.huseynli@gmail.com</p>
+
+  <footer>
+    © 2025 Linkedin Integration App – Məxfilik siyasəti
+  </footer>
+</body>
+</html>
